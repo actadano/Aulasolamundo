@@ -1,0 +1,2 @@
+# Aulasolamundo
+ primeiro repositorio git 
